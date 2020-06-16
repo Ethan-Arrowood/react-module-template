@@ -1,5 +1,5 @@
 {
-  "name": "react-module",
+  "name": "react-module-template",
   "version": "0.0.1",
   "description": "A template repo for React and TypeScript component modules",
   "main": "dist/index.js",
